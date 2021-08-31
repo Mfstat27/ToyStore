@@ -4,7 +4,6 @@ import PaypalExpressBtn from 'react-paypal-express-checkout';
 export default class MyApp extends React.Component {
     render() {
         const onSuccess = (payment) => {
-            console.log(this.props, 'props from sandBox')
             // Congratulation, it came here means everything's fine!
             		console.log("The payment was succeeded!", payment);
                     this.props.clearCart();

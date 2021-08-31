@@ -12,7 +12,6 @@ export const ProductList = () => {
                <div className="row">
                   <ProductConsumer>
                      {(valueFromContext) => {
-                        console.log(valueFromContext)
                         return valueFromContext.products.map((product) => {
                            return <Product 
                            key={product.id} 
