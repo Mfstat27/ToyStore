@@ -17,7 +17,7 @@ export const Cart = (props) => {
                               <Title name="Your" title="cart"/>
                               <CartColumns />
                               <CartList value={value}/>
-                                  <CartTotals value={value} history={props.history}/>   
+                              <CartTotals value={value} history={props.history}/>   
                           </React.Fragment>
                       )   
                   }else {
