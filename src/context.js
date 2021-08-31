@@ -39,7 +39,6 @@ const ProductProvider = (props) => {
        product.total = price;
        setProducts(() => tempProducts) 
        setCart(() => [...cart, product])
-        console.log(products, 'products')
    }
   const openModal = id => {
        const product = getItem(id);
