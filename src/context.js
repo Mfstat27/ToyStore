@@ -103,6 +103,7 @@ const ProductProvider = (props) => {
    }
    useEffect(() => {
     addTotals()
+   // eslint-disable-next-line react-hooks/exhaustive-deps
    }, [cart])
     return (
        <ProductContext.Provider value={{
