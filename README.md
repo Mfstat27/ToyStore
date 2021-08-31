@@ -2,6 +2,9 @@
 ## An e-commerce store created using:
 - React functional Components
 - React hooks
+- PayPal api
+- Styled-components
+- Typechecking with PropTypes
 
 ## How to use: 
 `npm install` then `npm start`
