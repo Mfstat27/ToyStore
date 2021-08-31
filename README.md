@@ -16,4 +16,4 @@
 - CSS transitions
 - Update item quantity in cart
 - Pay using Paypal
-- Deployed to Netlify - "Link to go here"
+- Deployed to Netlify - [ToyStore](https://612dfbac8d17c90007265af4--jolly-banach-9de91e.netlify.app/)
