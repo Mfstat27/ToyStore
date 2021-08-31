@@ -5,6 +5,7 @@
 - PayPal api
 - Styled-components
 - Typechecking with PropTypes
+- React context api
 
 ## How to use: 
 `npm install` then `npm start`
