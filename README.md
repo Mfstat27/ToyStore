@@ -20,4 +20,4 @@
 - CSS transitions
 - Update item quantity in cart
 - Pay using Paypal
-- Deployed to Netlify - [ToyStore](https://jolly-banach-9de91e.netlify.app)
+- Deployed to Netlify - [ToyStore](https://traceys-toys.netlify.app)
